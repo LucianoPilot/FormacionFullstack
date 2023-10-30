@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucianoPilot/FormacionFullstack.git#main"
+  },
+  "author": "Luciano Pilot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucianoPilot/FormacionFullstack/issues"
+  },
+  "homepage": "https://github.com/LucianoPilot/FormacionFullstack/tree/main#readme"
+}
