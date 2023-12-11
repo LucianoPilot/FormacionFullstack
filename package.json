@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LucianoPilot/FormacionFullstack/issues"
   },
-  "homepage": "https://github.com/LucianoPilot/FormacionFullstack/tree/main#readme"
+  "homepage": "https://github.com/LucianoPilot/FormacionFullstack/tree/main#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
 }
